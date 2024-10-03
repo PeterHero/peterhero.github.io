@@ -63,6 +63,7 @@ ul {
   font-size: medium;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   body {
     background-color: rgb(40, 40, 40);
@@ -97,3 +98,4 @@ ul {
     background-color: #789338;
   }
 }
+*/
